@@ -2,7 +2,6 @@ package desafios;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 
 public class Desafio03 {
     public static void main(String[] args) {
